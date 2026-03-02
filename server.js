@@ -1,6 +1,8 @@
 // ========================
 // Servidor Multiplayer Simples para Godot
-// Criado pelo Zee GameDev lindo de mãe
+// Criado pelo Zee GameDev
+// Editado por OZeuxxMan
+// Jogo Multiplayer online: Porte para MOBILE suporta DESKTOP
 // ========================
 
 // Importa as dependências
