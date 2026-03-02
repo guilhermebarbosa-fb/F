@@ -26,7 +26,7 @@ const rooms = new Map();
 
 // Função que gera um código aleatório para a sala (ex: 8GJ9Q)
 function generateRoomCode(length = 5) {
-    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789';
     let result = '';
     for (let i = 0; i < length; i++) result += chars.charAt(Math.floor(Math.random() * chars.length));
     return result;
